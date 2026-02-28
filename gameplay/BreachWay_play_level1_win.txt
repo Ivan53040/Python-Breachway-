@@ -1,0 +1,750 @@
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |@|   Small Blast: Deal 1 damage to target.                        
+   |2|   |   |1|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:3                                        Reactor Energy Available
+ S:0 H:0 | S:0 H:0                                                             3
+                                                                                
+       1               2               3               4               5        
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+ |Leech Energy|  |Raise Shield|  | Big Blast  |  |Small Blast |  | Big Blast  | 
+ |            |  |            |  |            |  |            |  |            | 
+ |Heat target |  |  Apply 5   |  |   Deal 5   |  |   Deal 1   |  |   Deal 5   | 
+ | and raise  |  |  Shield.   |  | damage to  |  | damage to  |  | damage to  | 
+ |shield by 2.|  |            |  |  target,   |  |  target.   |  |  target,   | 
+ |            |  |  Cost: 1   |  | applying 3 |  |            |  | applying 3 | 
+ |  Cost: 2   |  |Cooldown: 2 |  |   heat.    |  |  Cost: 1   |  |   heat.    | 
+ |Cooldown: 3 |  |            |  |            |  |Cooldown: 1 |  |            | 
+ |            |  |            |  |  Cost: 3   |  |            |  |  Cost: 3   | 
+ |            |  |            |  |Cooldown: 4 |  |            |  |Cooldown: 4 | 
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+                                                                                
+--------------------------------------------------------------------------------
+                             Welcome to BreachWay!                              
+                                 New encounter!                                 
+                              2 enemies remain...                               
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): H
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |@|   Small Blast: Deal 1 damage to target.                        
+   |2|   |   |1|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:3                                        Reactor Energy Available
+ S:0 H:0 | S:0 H:0                                                             3
+                                                                                
+       1               2               3               4               5        
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+ |Leech Energy|  |Raise Shield|  | Big Blast  |  |Small Blast |  | Big Blast  | 
+ |            |  |            |  |            |  |            |  |            | 
+ |Heat target |  |  Apply 5   |  |   Deal 5   |  |   Deal 1   |  |   Deal 5   | 
+ | and raise  |  |  Shield.   |  | damage to  |  | damage to  |  | damage to  | 
+ |shield by 2.|  |            |  |  target,   |  |  target.   |  |  target,   | 
+ |            |  |  Cost: 1   |  | applying 3 |  |            |  | applying 3 | 
+ |  Cost: 2   |  |Cooldown: 2 |  |   heat.    |  |  Cost: 1   |  |   heat.    | 
+ |Cooldown: 3 |  |            |  |            |  |Cooldown: 1 |  |            | 
+ |            |  |            |  |  Cost: 3   |  |            |  |  Cost: 3   | 
+ |            |  |            |  |Cooldown: 4 |  |            |  |Cooldown: 4 | 
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+                                                                                
+--------------------------------------------------------------------------------
+         Invalid command! Enter 'Help' to see a list of valid commands.         
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): Help
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |@|   Small Blast: Deal 1 damage to target.                        
+   |2|   |   |1|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:3                                        Reactor Energy Available
+ S:0 H:0 | S:0 H:0                                                             3
+                                                                                
+       1               2               3               4               5        
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+ |Leech Energy|  |Raise Shield|  | Big Blast  |  |Small Blast |  | Big Blast  | 
+ |            |  |            |  |            |  |            |  |            | 
+ |Heat target |  |  Apply 5   |  |   Deal 5   |  |   Deal 1   |  |   Deal 5   | 
+ | and raise  |  |  Shield.   |  | damage to  |  | damage to  |  | damage to  | 
+ |shield by 2.|  |            |  |  target,   |  |  target.   |  |  target,   | 
+ |            |  |  Cost: 1   |  | applying 3 |  |            |  | applying 3 | 
+ |  Cost: 2   |  |Cooldown: 2 |  |   heat.    |  |  Cost: 1   |  |   heat.    | 
+ |Cooldown: 3 |  |            |  |            |  |Cooldown: 1 |  |            | 
+ |            |  |            |  |  Cost: 3   |  |            |  |  Cost: 3   | 
+ |            |  |            |  |Cooldown: 4 |  |            |  |Cooldown: 4 | 
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+                                                                                
+--------------------------------------------------------------------------------
+                                   Commands:                                    
+                          - Help: See possible commands.                        
+             - Check deck: List cards in deck, with their cooldowns.            
+                 - Play card X: Plays Card at position X in hand.               
+                - End turn: end your turn and let the enemy move.               
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): help
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |@|   Small Blast: Deal 1 damage to target.                        
+   |2|   |   |1|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:3                                        Reactor Energy Available
+ S:0 H:0 | S:0 H:0                                                             3
+                                                                                
+       1               2               3               4               5        
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+ |Leech Energy|  |Raise Shield|  | Big Blast  |  |Small Blast |  | Big Blast  | 
+ |            |  |            |  |            |  |            |  |            | 
+ |Heat target |  |  Apply 5   |  |   Deal 5   |  |   Deal 1   |  |   Deal 5   | 
+ | and raise  |  |  Shield.   |  | damage to  |  | damage to  |  | damage to  | 
+ |shield by 2.|  |            |  |  target,   |  |  target.   |  |  target,   | 
+ |            |  |  Cost: 1   |  | applying 3 |  |            |  | applying 3 | 
+ |  Cost: 2   |  |Cooldown: 2 |  |   heat.    |  |  Cost: 1   |  |   heat.    | 
+ |Cooldown: 3 |  |            |  |            |  |Cooldown: 1 |  |            | 
+ |            |  |            |  |  Cost: 3   |  |            |  |  Cost: 3   | 
+ |            |  |            |  |Cooldown: 4 |  |            |  |Cooldown: 4 | 
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+                                                                                
+--------------------------------------------------------------------------------
+                                   Commands:                                    
+                          - Help: See possible commands.                        
+             - Check deck: List cards in deck, with their cooldowns.            
+                 - Play card X: Plays Card at position X in hand.               
+                - End turn: end your turn and let the enemy move.               
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): check deck
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |@|   Small Blast: Deal 1 damage to target.                        
+   |2|   |   |1|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:3                                        Reactor Energy Available
+ S:0 H:0 | S:0 H:0                                                             3
+                                                                                
+       1               2               3               4               5        
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+ |Leech Energy|  |Raise Shield|  | Big Blast  |  |Small Blast |  | Big Blast  | 
+ |            |  |            |  |            |  |            |  |            | 
+ |Heat target |  |  Apply 5   |  |   Deal 5   |  |   Deal 1   |  |   Deal 5   | 
+ | and raise  |  |  Shield.   |  | damage to  |  | damage to  |  | damage to  | 
+ |shield by 2.|  |            |  |  target,   |  |  target.   |  |  target,   | 
+ |            |  |  Cost: 1   |  | applying 3 |  |            |  | applying 3 | 
+ |  Cost: 2   |  |Cooldown: 2 |  |   heat.    |  |  Cost: 1   |  |   heat.    | 
+ |Cooldown: 3 |  |            |  |            |  |Cooldown: 1 |  |            | 
+ |            |  |            |  |  Cost: 3   |  |            |  |  Cost: 3   | 
+ |            |  |            |  |Cooldown: 4 |  |            |  |Cooldown: 4 | 
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+                                                                                
+--------------------------------------------------------------------------------
+            Ready: Big Blast, Small Blast, Raise Shield, Small Blast            
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): play card 3
+Please enter target hardpoint number: 1
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |X|   Hardpoint Inoperable!                                        
+   |2|   |   |0|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:1                                        Reactor Energy Available
+ S:0 H:0 | S:0 H:3                                                             0
+                                                                                
+         1                   2                   3                   4          
+   +------------+      +------------+      +------------+      +------------+   
+   |Leech Energy|      |Raise Shield|      |Small Blast |      | Big Blast  |   
+   |            |      |            |      |            |      |            |   
+   |Heat target |      |  Apply 5   |      |   Deal 1   |      |   Deal 5   |   
+   | and raise  |      |  Shield.   |      | damage to  |      | damage to  |   
+   |shield by 2.|      |            |      |  target.   |      |  target,   |   
+   |            |      |  Cost: 1   |      |            |      | applying 3 |   
+   |  Cost: 2   |      |Cooldown: 2 |      |  Cost: 1   |      |   heat.    |   
+   |Cooldown: 3 |      |            |      |Cooldown: 1 |      |            |   
+   |            |      |            |      |            |      |  Cost: 3   |   
+   |            |      |            |      |            |      |Cooldown: 4 |   
+   +------------+      +------------+      +------------+      +------------+   
+                                                                                
+--------------------------------------------------------------------------------
+                               Played Big Blast.                                
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): play card 2
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |X|   Hardpoint Inoperable!                                        
+   |2|   |   |0|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:1                                        Reactor Energy Available
+ S:0 H:0 | S:0 H:3                                                             0
+                                                                                
+         1                   2                   3                   4          
+   +------------+      +------------+      +------------+      +------------+   
+   |Leech Energy|      |Raise Shield|      |Small Blast |      | Big Blast  |   
+   |            |      |            |      |            |      |            |   
+   |Heat target |      |  Apply 5   |      |   Deal 1   |      |   Deal 5   |   
+   | and raise  |      |  Shield.   |      | damage to  |      | damage to  |   
+   |shield by 2.|      |            |      |  target.   |      |  target,   |   
+   |            |      |  Cost: 1   |      |            |      | applying 3 |   
+   |  Cost: 2   |      |Cooldown: 2 |      |  Cost: 1   |      |   heat.    |   
+   |Cooldown: 3 |      |            |      |Cooldown: 1 |      |            |   
+   |            |      |            |      |            |      |  Cost: 3   |   
+   |            |      |            |      |            |      |Cooldown: 4 |   
+   +------------+      +------------+      +------------+      +------------+   
+                                                                                
+--------------------------------------------------------------------------------
+                               Insufficent energy                               
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): end turn
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |+|   Weapon Recharging!                                           
+   |2|   |   |3|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:5                                        Reactor Energy Available
+ S:0 H:0 | S:0 H:0                                                             3
+                                                                                
+       1               2               3               4               5        
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+ |Leech Energy|  |Raise Shield|  |Small Blast |  | Big Blast  |  | Big Blast  | 
+ |            |  |            |  |            |  |            |  |            | 
+ |Heat target |  |  Apply 5   |  |   Deal 1   |  |   Deal 5   |  |   Deal 5   | 
+ | and raise  |  |  Shield.   |  | damage to  |  | damage to  |  | damage to  | 
+ |shield by 2.|  |            |  |  target.   |  |  target,   |  |  target,   | 
+ |            |  |  Cost: 1   |  |            |  | applying 3 |  | applying 3 | 
+ |  Cost: 2   |  |Cooldown: 2 |  |  Cost: 1   |  |   heat.    |  |   heat.    | 
+ |Cooldown: 3 |  |            |  |Cooldown: 1 |  |            |  |            | 
+ |            |  |            |  |            |  |  Cost: 3   |  |  Cost: 3   | 
+ |            |  |            |  |            |  |Cooldown: 4 |  |Cooldown: 4 | 
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+                                                                                
+--------------------------------------------------------------------------------
+                                  Turn ended.                                   
+                            The enemy has responded!                            
+                                Enemy destroyed!                                
+                                 New encounter!                                 
+                              1 enemies remain...                               
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): play card 2
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |+|   Weapon Recharging!                                           
+   |2|   |   |3|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:5                                        Reactor Energy Available
+ S:5 H:0 | S:0 H:0                                                             2
+                                                                                
+         1                   2                   3                   4          
+   +------------+      +------------+      +------------+      +------------+   
+   |Leech Energy|      |Small Blast |      | Big Blast  |      | Big Blast  |   
+   |            |      |            |      |            |      |            |   
+   |Heat target |      |   Deal 1   |      |   Deal 5   |      |   Deal 5   |   
+   | and raise  |      | damage to  |      | damage to  |      | damage to  |   
+   |shield by 2.|      |  target.   |      |  target,   |      |  target,   |   
+   |            |      |            |      | applying 3 |      | applying 3 |   
+   |  Cost: 2   |      |  Cost: 1   |      |   heat.    |      |   heat.    |   
+   |Cooldown: 3 |      |Cooldown: 1 |      |            |      |            |   
+   |            |      |            |      |  Cost: 3   |      |  Cost: 3   |   
+   |            |      |            |      |Cooldown: 4 |      |Cooldown: 4 |   
+   +------------+      +------------+      +------------+      +------------+   
+                                                                                
+--------------------------------------------------------------------------------
+                              Played Raise Shield.                              
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): play card 10
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |+|   Weapon Recharging!                                           
+   |2|   |   |3|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:5                                        Reactor Energy Available
+ S:5 H:0 | S:0 H:0                                                             2
+                                                                                
+         1                   2                   3                   4          
+   +------------+      +------------+      +------------+      +------------+   
+   |Leech Energy|      |Small Blast |      | Big Blast  |      | Big Blast  |   
+   |            |      |            |      |            |      |            |   
+   |Heat target |      |   Deal 1   |      |   Deal 5   |      |   Deal 5   |   
+   | and raise  |      | damage to  |      | damage to  |      | damage to  |   
+   |shield by 2.|      |  target.   |      |  target,   |      |  target,   |   
+   |            |      |            |      | applying 3 |      | applying 3 |   
+   |  Cost: 2   |      |  Cost: 1   |      |   heat.    |      |   heat.    |   
+   |Cooldown: 3 |      |Cooldown: 1 |      |            |      |            |   
+   |            |      |            |      |  Cost: 3   |      |  Cost: 3   |   
+   |            |      |            |      |Cooldown: 4 |      |Cooldown: 4 |   
+   +------------+      +------------+      +------------+      +------------+   
+                                                                                
+--------------------------------------------------------------------------------
+         Invalid command! Enter 'Help' to see a list of valid commands.         
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): play card 1
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |+|   Weapon Recharging!                                           
+   |2|   |   |3|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:5                                        Reactor Energy Available
+ S:7 H:0 | S:0 H:2                                                             0
+                                                                                
+             1                         2                         3              
+       +------------+            +------------+            +------------+       
+       |Small Blast |            | Big Blast  |            | Big Blast  |       
+       |            |            |            |            |            |       
+       |   Deal 1   |            |   Deal 5   |            |   Deal 5   |       
+       | damage to  |            | damage to  |            | damage to  |       
+       |  target.   |            |  target,   |            |  target,   |       
+       |            |            | applying 3 |            | applying 3 |       
+       |  Cost: 1   |            |   heat.    |            |   heat.    |       
+       |Cooldown: 1 |            |            |            |            |       
+       |            |            |  Cost: 3   |            |  Cost: 3   |       
+       |            |            |Cooldown: 4 |            |Cooldown: 4 |       
+       +------------+            +------------+            +------------+       
+                                                                                
+--------------------------------------------------------------------------------
+                              Played Leech Energy.                              
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): end_turn
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |+|   Weapon Recharging!                                           
+   |2|   |   |3|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:5                                        Reactor Energy Available
+ S:7 H:0 | S:0 H:2                                                             0
+                                                                                
+             1                         2                         3              
+       +------------+            +------------+            +------------+       
+       |Small Blast |            | Big Blast  |            | Big Blast  |       
+       |            |            |            |            |            |       
+       |   Deal 1   |            |   Deal 5   |            |   Deal 5   |       
+       | damage to  |            | damage to  |            | damage to  |       
+       |  target.   |            |  target,   |            |  target,   |       
+       |            |            | applying 3 |            | applying 3 |       
+       |  Cost: 1   |            |   heat.    |            |   heat.    |       
+       |Cooldown: 1 |            |            |            |            |       
+       |            |            |  Cost: 3   |            |  Cost: 3   |       
+       |            |            |Cooldown: 4 |            |Cooldown: 4 |       
+       +------------+            +------------+            +------------+       
+                                                                                
+--------------------------------------------------------------------------------
+         Invalid command! Enter 'Help' to see a list of valid commands.         
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): end turn
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |o|   Big Blast: Deal 5 damage to target, applying 3 heat.         
+   |2|   |   |3|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:3                                        Reactor Energy Available
+ S:3 H:0 | S:0 H:1                                                             3
+                                                                                
+       1               2               3               4               5        
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+ |Small Blast |  | Big Blast  |  | Big Blast  |  |Raise Shield|  |Small Blast | 
+ |            |  |            |  |            |  |            |  |            | 
+ |   Deal 1   |  |   Deal 5   |  |   Deal 5   |  |  Apply 5   |  |   Deal 1   | 
+ | damage to  |  | damage to  |  | damage to  |  |  Shield.   |  | damage to  | 
+ |  target.   |  |  target,   |  |  target,   |  |            |  |  target.   | 
+ |            |  | applying 3 |  | applying 3 |  |  Cost: 1   |  |            | 
+ |  Cost: 1   |  |   heat.    |  |   heat.    |  |Cooldown: 2 |  |  Cost: 1   | 
+ |Cooldown: 1 |  |            |  |            |  |            |  |Cooldown: 1 | 
+ |            |  |  Cost: 3   |  |  Cost: 3   |  |            |  |            | 
+ |            |  |Cooldown: 4 |  |Cooldown: 4 |  |            |  |            | 
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+                                                                                
+--------------------------------------------------------------------------------
+                                  Turn ended.                                   
+                            The enemy has responded!                            
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): play card 3
+Please enter target hardpoint number: 0
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |o|   Big Blast: Deal 5 damage to target, applying 3 heat.         
+   |2|   |   |3|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:3                                        Reactor Energy Available
+ S:3 H:0 | S:0 H:1                                                             3
+                                                                                
+       1               2               3               4               5        
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+ |Small Blast |  | Big Blast  |  | Big Blast  |  |Raise Shield|  |Small Blast | 
+ |            |  |            |  |            |  |            |  |            | 
+ |   Deal 1   |  |   Deal 5   |  |   Deal 5   |  |  Apply 5   |  |   Deal 1   | 
+ | damage to  |  | damage to  |  | damage to  |  |  Shield.   |  | damage to  | 
+ |  target.   |  |  target,   |  |  target,   |  |            |  |  target.   | 
+ |            |  | applying 3 |  | applying 3 |  |  Cost: 1   |  |            | 
+ |  Cost: 1   |  |   heat.    |  |   heat.    |  |Cooldown: 2 |  |  Cost: 1   | 
+ |Cooldown: 1 |  |            |  |            |  |            |  |Cooldown: 1 | 
+ |            |  |  Cost: 3   |  |  Cost: 3   |  |            |  |            | 
+ |            |  |Cooldown: 4 |  |Cooldown: 4 |  |            |  |            | 
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+                                                                                
+--------------------------------------------------------------------------------
+                                Invalid target.                                 
+--------------------------------------------------------------------------------
+Please enter target hardpoint number: 2
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |o|   Big Blast: Deal 5 damage to target, applying 3 heat.         
+   |2|   |   |3|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:3                                        Reactor Energy Available
+ S:3 H:0 | S:0 H:1                                                             3
+                                                                                
+       1               2               3               4               5        
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+ |Small Blast |  | Big Blast  |  | Big Blast  |  |Raise Shield|  |Small Blast | 
+ |            |  |            |  |            |  |            |  |            | 
+ |   Deal 1   |  |   Deal 5   |  |   Deal 5   |  |  Apply 5   |  |   Deal 1   | 
+ | damage to  |  | damage to  |  | damage to  |  |  Shield.   |  | damage to  | 
+ |  target.   |  |  target,   |  |  target,   |  |            |  |  target.   | 
+ |            |  | applying 3 |  | applying 3 |  |  Cost: 1   |  |            | 
+ |  Cost: 1   |  |   heat.    |  |   heat.    |  |Cooldown: 2 |  |  Cost: 1   | 
+ |Cooldown: 1 |  |            |  |            |  |            |  |Cooldown: 1 | 
+ |            |  |  Cost: 3   |  |  Cost: 3   |  |            |  |            | 
+ |            |  |Cooldown: 4 |  |Cooldown: 4 |  |            |  |            | 
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+                                                                                
+--------------------------------------------------------------------------------
+                                Invalid target.                                 
+--------------------------------------------------------------------------------
+Please enter target hardpoint number: 1
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |X|   Hardpoint Inoperable!                                        
+   |2|   |   |0|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:1                                        Reactor Energy Available
+ S:3 H:0 | S:0 H:4                                                             0
+                                                                                
+         1                   2                   3                   4          
+   +------------+      +------------+      +------------+      +------------+   
+   |Small Blast |      | Big Blast  |      |Raise Shield|      |Small Blast |   
+   |            |      |            |      |            |      |            |   
+   |   Deal 1   |      |   Deal 5   |      |  Apply 5   |      |   Deal 1   |   
+   | damage to  |      | damage to  |      |  Shield.   |      | damage to  |   
+   |  target.   |      |  target,   |      |            |      |  target.   |   
+   |            |      | applying 3 |      |  Cost: 1   |      |            |   
+   |  Cost: 1   |      |   heat.    |      |Cooldown: 2 |      |  Cost: 1   |   
+   |Cooldown: 1 |      |            |      |            |      |Cooldown: 1 |   
+   |            |      |  Cost: 3   |      |            |      |            |   
+   |            |      |Cooldown: 4 |      |            |      |            |   
+   +------------+      +------------+      +------------+      +------------+   
+                                                                                
+--------------------------------------------------------------------------------
+                               Played Big Blast.                                
+--------------------------------------------------------------------------------
+Please enter command (or Help to see valid commands): end turn
+--------------------------------------------------------------------------------
+                                   BreachWay                                    
+--------------------------------------------------------------------------------
+         |                                                                      
+         |                                                                      
+         |                                                                      
+    ^    |                                                                      
+   / \   |                                                                      
+   |-|   |                                                                      
+   | |   |                                                                      
+ 1 |@|   |                                                                      
+   |1|   |                                                                      
+   | |   |    ^                                                                 
+ 2 |o|   |   / \                                                                
+   |3|   |   |-|                                                                
+   | |   |   | |                                                                
+ 3 |*|   | 1 |o|   Big Blast: Deal 5 damage to target, applying 3 heat.         
+   |2|   |   |3|                                                                
+  /| |\  |  /| |\                                                               
+ / |^| \ | / |^| \                                                              
+/M-M|M-M\|/M-M|M-M\                                                             
+--------------------------------------------------------------------------------
+  A:10   |   A:0                                        Reactor Energy Available
+ S:1 H:0 | S:0 H:3                                                             3
+                                                                                
+       1               2               3               4               5        
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+ |Small Blast |  | Big Blast  |  |Raise Shield|  |Small Blast |  | Big Blast  | 
+ |            |  |            |  |            |  |            |  |            | 
+ |   Deal 1   |  |   Deal 5   |  |  Apply 5   |  |   Deal 1   |  |   Deal 5   | 
+ | damage to  |  | damage to  |  |  Shield.   |  | damage to  |  | damage to  | 
+ |  target.   |  |  target,   |  |            |  |  target.   |  |  target,   | 
+ |            |  | applying 3 |  |  Cost: 1   |  |            |  | applying 3 | 
+ |  Cost: 1   |  |   heat.    |  |Cooldown: 2 |  |  Cost: 1   |  |   heat.    | 
+ |Cooldown: 1 |  |            |  |            |  |Cooldown: 1 |  |            | 
+ |            |  |  Cost: 3   |  |            |  |            |  |  Cost: 3   | 
+ |            |  |Cooldown: 4 |  |            |  |            |  |Cooldown: 4 | 
+ +------------+  +------------+  +------------+  +------------+  +------------+ 
+                                                                                
+--------------------------------------------------------------------------------
+                                  Turn ended.                                   
+                            The enemy has responded!                            
+                                Enemy destroyed!                                
+                    The sector is yours, you are victorious!                    
+--------------------------------------------------------------------------------

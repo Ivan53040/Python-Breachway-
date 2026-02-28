@@ -1,0 +1,1 @@
+10,L,H,S,S,3|3,L;5,R;python,H,R;10,L,L,S,L,L
