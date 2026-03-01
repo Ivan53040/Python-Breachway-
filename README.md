@@ -82,9 +82,3 @@ python a2.py
 
 This project is an example of clean and maintainable Python engineering suitable for both coursework and portfolio showcase.
 
-
-Full game documentation
-
-Additional test coverage
-
-Contributions can be done via GitHub pull request.
